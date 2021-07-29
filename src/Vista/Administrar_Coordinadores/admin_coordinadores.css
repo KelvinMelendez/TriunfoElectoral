@@ -1,0 +1,96 @@
+.admin_coordinadores_container{
+    background-image: url("adm_coordinadores.png");
+    height: 60rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.admin_coordinadores_logo{
+    width: 13%;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.admin_coordinadores_titulo{
+    margin-left: 5rem;
+}
+.admin_coordinadores_titulo .admin_coordinadores_titulo_1{
+    color: #00458A;
+    font-size: 3rem;
+}
+.admin_coordinadores_titulo .admin_coordinadores_titulo_2{
+    color: #00458A;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.admin_coordinadores_btn_entrar{
+    width: 15%;
+    background: #d12429;
+    border: none;
+    border-radius: 0.8rem;
+    color: white;
+    font-weight: bold;
+    height: 3rem;
+    margin-left: 5rem;
+}
+.admin_coordinadores_contenedor_btn{
+    margin-left: 0.8rem;
+    width: 60%;
+    text-align: center;
+}
+.admin_coordinadores_contenedor_btn div{
+    display: inline-block;
+    margin-right: 2rem;
+    background: #00458A;
+    color: white;
+    width: 20%;
+    border-radius: 0.5rem;
+    height: 2rem;
+    line-height: 2rem;
+}
+.admin_coordinadores_contenedor_btn div:hover{
+    cursor: pointer;
+}
+.admin_contenedor_tabla{
+    margin-left: 0.8rem;
+    width: 60%;
+    padding: 1rem;
+}
+.admin_docentes{
+    width: 100%;
+    border-collapse: collapse;
+}
+.admin_docentes th{
+    background: #d12429;
+    color: white;
+}
+.admin_docentes td{
+    text-align: center;
+}
+.admin_docentes, th, td{
+    border: 0.01rem solid gainsboro;
+}
+.admin_coordinadores_filtros_container{
+    margin-left: 1.8rem;
+    background: #00458A;
+    border-radius: 0.5rem;
+    width: 50%;
+    text-align: center;
+    color: white;
+
+}
+.admin_coordinadores_filtros_container .admin_btn_filtro{
+    background: #d12429;
+    width: 40%;
+    border-radius: 0.5rem;
+    color: white;
+    height: 2rem;
+    line-height: 2rem;
+}
+.admin_coordinadores_filtros_container .admin_btn_filtro:hover{
+    cursor: pointer;
+}
+.admin_coordinadores_filtro{
+    display: inline-block;
+    text-align: center;
+    margin-right: 2rem;
+}

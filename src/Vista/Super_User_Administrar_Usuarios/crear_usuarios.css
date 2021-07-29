@@ -1,0 +1,52 @@
+.crear_usuarios_container_2{
+    background-image: url("adm_coordinadores.png");
+    height: 70rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0.5rem
+}
+.crear_usuarios_logo{
+    width: 13%;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.crear_usuarios_titulo{
+    margin-left: 5rem;
+}
+.crear_usuarios_titulo .crear_usuarios_titulo_1{
+    color: #00458A;
+    font-size: 3rem;
+}
+.crear_usuarios_titulo .crear_usuarios_titulo_2{
+    color: #00458A;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.crear_usuarios_container_2 .btn_agregar_usuario{
+    margin-left: 3.8rem;
+    width: 25%;
+    text-align: center;
+    background:#d12429;
+    font-weight: bold;
+    color: white;
+    height: 2rem;
+    line-height: 2rem;
+    border-radius: 0.5rem;
+}
+.crear_usuarios_container_2 .btn_agregar_usuario:hover{
+    cursor: pointer;
+}
+
+.crear_usuario_2_form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: none;
+    position: fixed;
+    left: 18rem;
+    background: #00458A;;
+    color:white;
+    border-radius: 0.3rem;
+}

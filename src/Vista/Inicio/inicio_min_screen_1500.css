@@ -1,0 +1,43 @@
+@media only screen and (min-width: 1201px){
+
+    .home_container{
+        background-image: url("Web Inicio.png");
+        height: 80rem;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .home_logo{
+        width: 13%;
+        margin-top: 5rem;
+        margin-left: 5rem;
+    }
+    .home_titulo{
+        margin-left: 5rem;
+    }
+    .home_titulo .home_titulo_1{
+        color: #00458A;
+        font-size: 3rem;
+    }
+    .home_titulo .home_titulo_2{
+        color: #00458A;
+        font-weight: bold;
+        font-size: 3rem;
+    }
+    .home_btn_entrar{
+        width: 15%;
+        background: #d12429;
+        border: none;
+        border-radius: 0.8rem;
+        color: white;
+        font-weight: bold;
+        height: 3rem;
+        margin-left: 5rem;
+        font-size: 1.5rem;
+    }
+
+    .home_btn_entrar:hover{
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,40 @@
+@media only screen and (max-width: 599px){
+    .menu_container{
+        background-image: url("menu_movil.png");
+        height: 40rem;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .menu_logo{
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .menu_titulo{
+        text-align: center;
+    }
+    .menu_titulo .menu_titulo_1{
+        color: #00458A;
+        font-size: 1.3rem;
+    }
+    .menu_titulo .menu_titulo_2{
+        color: #00458A;
+        font-weight: bold;
+        font-size: 1.3rem;
+    }
+    .menu_opcion{
+        width: 60%;
+        background: #d12429;
+        border: none;
+        border-radius: 0.4rem;
+        color: white;
+        font-weight: bold;
+        margin-left: 5rem;
+        height: 2rem;
+        margin-bottom: 0.6rem;
+    }
+    .menu_opcion:hover{
+        cursor: pointer;
+    }
+}

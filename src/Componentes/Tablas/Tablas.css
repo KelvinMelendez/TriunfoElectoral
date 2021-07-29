@@ -1,0 +1,20 @@
+*{
+	list-style-type: none;
+}
+.tabla_contenedor_principal{
+	margin-left: 2rem;
+}
+.tabla_contenedor_principal table, th, td {
+	border: 1px solid rgb(192, 191, 191);
+	border-collapse: collapse;
+}
+.tabla_contenedor_principal th{
+	background:#00458A;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.tabla_contenedor_principal tr{
+	cursor: pointer;
+}

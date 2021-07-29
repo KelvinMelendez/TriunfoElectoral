@@ -1,0 +1,47 @@
+.simpatia_container{
+    background-image: url("simpatia_docentes.png");
+    height: 70rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.simpatia_contenedor_logo{
+    width: 13%;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.simpatia_titulo{
+    margin-left: 5rem;
+}
+.simpatia_titulo .simpatia_titulo_1{
+    color: #00458A;
+    font-size: 3rem;
+}
+.simpatia_titulo .simpatia_titulo_2{
+    color: #00458A;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.simpatia_contenedor_field{
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+}
+.simpatia_registrar_btn{
+    width: 15%;
+    background: #d12429;
+    border: none;
+    border-radius: 0.8rem;
+    color: white;
+    font-weight: bold;
+    height: 3rem;
+    margin-left: 3rem;
+}
+.simpatia_contenedor_estadisticas{
+    width: 50%;
+    margin-left: 3rem;
+}
+.simpatia_contenedor_estadisticas div{
+    display: inline-block;
+    margin-right: 3rem;
+    text-align: center;
+}
